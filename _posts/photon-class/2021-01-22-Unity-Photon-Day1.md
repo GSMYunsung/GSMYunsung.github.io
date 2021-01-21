@@ -1,7 +1,10 @@
 ---
+
+ layout: post
 title: Unity_Photon강의_Day1
-date: 2021-01-22 8:03:47 +07:00 - 시간
-tags: [unity, game] - 태그
+date: 2021-01-22 8:03:47 +07:00
+tags: [unity, game] 
+
 ---
 
 싱글게임은 서로를 모름
