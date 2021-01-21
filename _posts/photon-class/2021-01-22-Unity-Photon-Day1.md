@@ -1,9 +1,9 @@
 ---
 
  layout: post
-title: Unity_Photon강의_Day1
-date: 2021-01-22 8:03:47 +07:00
-tags: [unity, game] 
+ title: Unity_Photon강의_Day1
+ date: 2021-01-22 8:03:47 +07:00
+ tags: [unity, game] 
 
 ---
 
