@@ -2,8 +2,7 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: 
-### Hello🙌
+excerpt: Hello🙌
 comments: false
 ---
 
