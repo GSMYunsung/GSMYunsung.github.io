@@ -2,8 +2,8 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Hello🙌
-dfdj
+ excerpt: Hello🙌 <br>
+          Hello🙌
 comments: false
 ---
 
