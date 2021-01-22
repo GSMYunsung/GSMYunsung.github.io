@@ -3,6 +3,7 @@ title: Acknowledgment
 permalink: /thanks/
 layout: page
 excerpt: Hello🙌
+dfdj
 comments: false
 ---
 
