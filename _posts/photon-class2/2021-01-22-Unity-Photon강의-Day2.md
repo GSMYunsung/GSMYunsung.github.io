@@ -33,7 +33,7 @@ Controlled locally : 제어권(master)가 붙으면 방장이라는뜻이고,체
 
 ​                                  (PV.IsMine과 같다)
 
-```
+```c#
 public class NetWorkManager : MonoBehaviourPunCallbacks
 {
           void Start()
