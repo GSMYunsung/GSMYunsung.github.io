@@ -1,9 +1,8 @@
 ---
+ layout: post
  title: Unity_Photon강의_Day4
  date: 2021-01-25 8:14:47 +07:00
- tags: [UNITY, GAME, MULTIGAME] - 태그
-** **-강조인듯
-` `-형광펜긋기?
+ tags: [UNITY, GAME, MULTIGAME]
 ---
 
 #### [RaiseEvent]
