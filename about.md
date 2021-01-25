@@ -10,5 +10,6 @@ comments: false
 ■ 제 블로그에 와 주셔서 감사합니다! 🏃<br>
 
 **  정보✨ **
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- 12345ggh81@gmail.com `[Email]`
+- https://github.com/GSMYunsung `[GitHub]`
+- https://www.instagram.com/_pnl.s/ `[Instagram]`
