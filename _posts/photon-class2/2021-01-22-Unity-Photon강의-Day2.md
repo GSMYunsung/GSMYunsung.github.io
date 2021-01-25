@@ -2,7 +2,7 @@
  layout: post
  title: Unity_Photon강의_Day2
  date: 2021-01-22 9:13:47 +07:00
- tags: [unity, game, Multigame]
+ tags: [unity, game, Multigame,Photon]
 ---
 
 ### <u>[동적오브젝트로 있는경우]-방참가 런타임시</u>
