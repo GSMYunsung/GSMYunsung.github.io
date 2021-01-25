@@ -2,7 +2,7 @@
  layout: post
  title: Unity_Photon강의_Day3
  date: 2021-01-22 9:31:47 +07:00
- tags: [unity, game, Multigame]
+ tags: [unity, game, Multigame, Photon]
 ---
 
 #### [RPC 채팅]
