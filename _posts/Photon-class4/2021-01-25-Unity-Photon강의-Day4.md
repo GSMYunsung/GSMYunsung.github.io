@@ -2,7 +2,7 @@
  layout: post
  title: Unity_Photon강의_Day4
  date: 2021-01-25 8:14:47 +07:00
- tags: [UNITY, GAME, MULTIGAME]
+ tags: [UNITY, GAME, MULTIGAME,Photon]
 ---
 
 #### [RaiseEvent]
