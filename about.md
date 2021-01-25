@@ -1,5 +1,5 @@
 ---
-title: Colophon
+title: introduce
 permalink: /about/
 layout: page
 excerpt: klisé님의 소스를 발췌해 만들었습니다.
