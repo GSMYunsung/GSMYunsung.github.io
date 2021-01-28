@@ -44,11 +44,13 @@ public class PlayerM : MonoBehaviour
 
 #### [Nav Mesh Agent]
 
-<img src="C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210128115321606.png" alt="image-20210128115321606" style="zoom:150%;" />
+![img](https://cdn.discordapp.com/attachments/735007340733923392/804183997416472606/unknown.png)
 
 적에게 추적기능을 넣어줍시다. `Nav Mesh Agent라는 컴포넌트를 추가`하고,
 
-![image-20210126184816570](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210126184816570.png)
+![img](https://cdn.discordapp.com/attachments/735007340733923392/804184108430917632/unknown.png)
+
+
 
 Window탭에 `AI > Navigation`이라는 창을 추가합니다.
 
@@ -56,7 +58,7 @@ Window탭에 `AI > Navigation`이라는 창을 추가합니다.
 
 그리고 `Bake 탭을 누르고 또 Bake`를 눌러주면됩니다.
 
-![image-20210126184830962](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210126184830962.png)
+![img](https://cdn.discordapp.com/attachments/735007340733923392/804184209660051496/unknown.png)
 
 하지만 아직 Bake를 눌러도 아무런 표시가 뜨지않습니다.
 
@@ -66,11 +68,11 @@ Window탭에 `AI > Navigation`이라는 창을 추가합니다.
 
 우리는 이것을 위해 장애물이나 길 오브젝트에 Static을 넣어주셔야 합니다.
 
-![image-20210126184842080](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210126184842080.png)
+![img](https://cdn.discordapp.com/attachments/735007340733923392/804184372185006090/unknown.png)
 
 그 후 다시 Break버튼을 눌러보면,
 
-![image-20210126184852691](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210126184852691.png)
+![img](https://cdn.discordapp.com/attachments/804184517644386345/804184527060467762/unknown.png)
 
 이런식으로 상대플레이어 즉 AI가 갈 수있는 길이 나타난것을 알 수있습니다.
 
@@ -128,7 +130,7 @@ public class AI : MonoBehaviour
 
 그리고 실행시키면 플레이어를 따라오는 상대(AI)를 볼 수있습니다.
 
-![image-20210126184910722](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210126184910722.png)
+![img](https://cdn.discordapp.com/attachments/804184517644386345/804184627513917480/unknown.png)
 
 
 
