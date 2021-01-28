@@ -87,7 +87,7 @@ UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Damage")
 
 ■위와 같이 설정한 함수들이 `Category`로 묶여있고,  `BlueprintReadOnly`로 인해 Damage Per Second가  수정불가능한 프로퍼티가 된것을 알 수있다.
 
-![image-20210128182802332](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210128182802332.png)
+![img](https://cdn.discordapp.com/attachments/804184517644386345/804286187560108032/unknown.png)
 
 
 
