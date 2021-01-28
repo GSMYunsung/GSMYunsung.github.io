@@ -44,7 +44,7 @@ public class PlayerM : MonoBehaviour
 
 #### [Nav Mesh Agent]
 
-![image-20210126184752605](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210126184752605.png)
+![image-20210128115057421](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210128115057421.png)
 
 적에게 추적기능을 넣어줍시다. `Nav Mesh Agent라는 컴포넌트를 추가`하고,
 
