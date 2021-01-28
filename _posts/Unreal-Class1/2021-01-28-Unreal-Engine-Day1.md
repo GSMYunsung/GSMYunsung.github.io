@@ -33,7 +33,7 @@
 
 그리고 프로젝트를 생성하면 다음과 같은 화면이 나올것이다.
 
-![image-20210128120845170](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210128120845170.png)
+![img](https://cdn.discordapp.com/attachments/804184517644386345/804193386872569856/unknown.png)
 
 이제 c++스크립트를 추가해보자.
 
